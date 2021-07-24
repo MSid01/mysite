@@ -86,13 +86,13 @@ hr {
 }
 
 .editing {
-  width: 20%;
+  width: 200px;
   margin: 40px 40px 10px 10px;
   float: left;
 }
 
 .poem {
-  width: 20%;
+  width: 175px;
   float: right;
   margin: 10px 10px 0px 40px;
 }
